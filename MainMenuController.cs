@@ -6,7 +6,7 @@ public class MainMenuController : MonoBehaviour
 {
     public UIDocument levelSelectDoc;
     public UIDocument settingsDoc;
-    public UIDocument helpDoc;  // 👈 Add this in the Inspector!
+    public UIDocument helpDoc;  
 
     private VisualElement mainRoot;
     private VisualElement levelRoot;
